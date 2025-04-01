@@ -16,9 +16,9 @@ As a Full Stack Developer, I specialize in **JavaScript**, **TypeScript** and **
 ## 💻 Languages and Tools:
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat" target="_blank"></a>  
 </div>
