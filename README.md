@@ -1,4 +1,4 @@
-# 👨‍💻 Iury Lenon Alves
+# 👨‍💻 Iury Lenon
 
 **`Software Engineer`**
 
